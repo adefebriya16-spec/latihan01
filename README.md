@@ -5,9 +5,5 @@ Ade Febriyani
 
 021002305004
 
-praktikum
-analisa
-big
-data
-ekonomika
+praktikum analisa big data ekonomika
 
